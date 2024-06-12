@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johnnyhep
+- 👀 I’m interested in python, data handling/manipulation
+- 🌱 I’m currently learning Swift, HTML5
+- 📫 How to reach me: jnh4home@gmail.com
+- ⚡ Fun fact: I lived in China for 6 years.
