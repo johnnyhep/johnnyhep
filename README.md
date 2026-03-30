@@ -2,4 +2,3 @@
 - 👀 I’m interested in Python, Django, and webdev
 - 🌱 I’m currently learning HTML5
 - 📫 How to reach me: jnh4home@gmail.com
-- ⚡ Fun fact: I lived in China for 6 years.
