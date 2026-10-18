@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @johnnyhep
-- 👀 I’m interested in Python, Django, and webdev
-- 🌱 I’m currently learning HTML5
+- 👀 I’m interested in Python, Django, and web development.
+- 🌱 I’m currently learning various aspects of web development.
 - 📫 How to reach me: jnh4home@gmail.com
